@@ -1,7 +1,4 @@
-# PivotPoint
-Airfoil Angle of Attack Tracker
-
-# PivotPoint: Airfoil AoA & LED Tracker
+# PivotPoint: Airfoil Angle of Attack & LED Tracker
 
 PivotPoint is a computer vision tool designed to track the **Angle of Attack (AoA)** of an airfoil and monitor a signaling **LED** in experimental video footage. It uses OpenCV’s CSRT algorithm for high-accuracy point tracking and logs results to a CSV file.
 
